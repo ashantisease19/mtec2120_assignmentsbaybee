@@ -791,3 +791,27 @@ Received Import Request.
   path: Assets/Tree.prefab
   artifactKey: Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Tree.prefab using Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956de4d19b24c7de0584ae30da529a99') in 0.290298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 695.268163 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b756c6bcf94e4d0324e46a16609eac') in 0.031826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 266.030175 seconds.
+  path: Assets/New Terrain 2.asset
+  artifactKey: Guid(a4c46318ae280404e999115638ffb4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 2.asset using Guid(a4c46318ae280404e999115638ffb4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b531838efd3b47e589a69fe39cf4fd8c') in 0.007824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 689.850267 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(d962ef5e8729243dfab72441b3489ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(d962ef5e8729243dfab72441b3489ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9cbc56afcd949a5d34236c2e553bf2') in 0.008867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(89bfefb6c74b94c4ba8c2d945f7e82d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0acf54d39ba1aa9388606b1b1924969') in 0.032916 seconds 
