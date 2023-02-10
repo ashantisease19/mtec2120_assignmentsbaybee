@@ -312,3 +312,189 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3166.309274 seconds.
+  path: Assets/StarterAssets/Environment
+  artifactKey: Guid(8d8da06649314d7498296c53b4a0a77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment using Guid(8d8da06649314d7498296c53b4a0a77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc81271a020dee4985103a19b0a37f9') in 0.013294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.908095 seconds.
+  path: Assets/StarterAssets/ThirdPersonController
+  artifactKey: Guid(54b90d7f60b179e4e9909cd127aa060d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController using Guid(54b90d7f60b179e4e9909cd127aa060d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a0e7b3c6b42ac925750c82348d4c12') in 0.001657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.245798 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Character
+  artifactKey: Guid(135db69c43c47ee4e97c7c6b13621056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Character using Guid(135db69c43c47ee4e97c7c6b13621056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0ac45f171c768d9d88933de1ede384') in 0.003110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.110346 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Character/Models
+  artifactKey: Guid(f99c02f4392c29d4dad06bad32b0bfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Character/Models using Guid(f99c02f4392c29d4dad06bad32b0bfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4679ab8470709d8f66953dd3830206') in 0.001605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.081362 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx
+  artifactKey: Guid(36078ab0369161e49a29d349ae3e0739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Character/Models/Armature.fbx using Guid(36078ab0369161e49a29d349ae3e0739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d561c4478f76bac7e287dfe31a39a76') in 0.576745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 107.937020 seconds.
+  path: Assets/StarterAssets/InputSystem/StarterAssets.inputactions
+  artifactKey: Guid(4419d82f33d36e848b3ed5af4c8da37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/InputSystem/StarterAssets.inputactions using Guid(4419d82f33d36e848b3ed5af4c8da37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd678195a9f2b7229dc716827a905aa84') in 0.185652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.624394 seconds.
+  path: Packages/com.unity.terrain-tools
+  artifactKey: Guid(d215cdf4e2249473f7cf3aad48a6f895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools using Guid(d215cdf4e2249473f7cf3aad48a6f895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59457b44f7e95a1247be0c90cc726887') in 0.003161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.074478 seconds.
+  path: Packages/com.unity.terrain-tools/package.json
+  artifactKey: Guid(f50728dbaf07be54d90705c02e335a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/package.json using Guid(f50728dbaf07be54d90705c02e335a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9742a49cf42df3bc3d52428c88ec54d0') in 0.391496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.240260 seconds.
+  path: Packages/com.unity.terrain-tools/Tests
+  artifactKey: Guid(462dc57a16f328146a086eda0c9781b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests using Guid(462dc57a16f328146a086eda0c9781b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f614268e1d799c729d9e0fa6bfd2ef4c') in 0.003144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.296382 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor
+  artifactKey: Guid(af11be335bcd1f34f82745c4a5bd6c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor using Guid(af11be335bcd1f34f82745c4a5bd6c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758ff473a3b795efb949e3a17b6c2357') in 0.003159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.077179 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/Unity.TerrainTools.Editor.Tests.asmdef
+  artifactKey: Guid(9646aac626b28f14dbe5994e43795168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/Unity.TerrainTools.Editor.Tests.asmdef using Guid(9646aac626b28f14dbe5994e43795168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7dfcacb8e75d77a7a0fa273ab58da45') in 0.148131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.744110 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/BaseTests.cs
+  artifactKey: Guid(21be2ca56243491894dcdc852d99b967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/BaseTests.cs using Guid(21be2ca56243491894dcdc852d99b967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21665441516a4adfb317b0d8bc359ad3') in 0.002645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.916883 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/BrushPlaybackTests.cs
+  artifactKey: Guid(bb7f361483df0f54d9a61ee40ee40cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/BrushPlaybackTests.cs using Guid(bb7f361483df0f54d9a61ee40ee40cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f3f0f81755146100115ba5d53bfcb2') in 0.004081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.653661 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/BrushRotationVariatorTests.cs
+  artifactKey: Guid(f24ec209de991544a9871447851ee717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/BrushRotationVariatorTests.cs using Guid(f24ec209de991544a9871447851ee717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5581e0d94bdc398e0ce850de783279f') in 0.002487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.577914 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/ToolboxHelperTests.cs
+  artifactKey: Guid(89ee1284ccb34bf6b305e5e49a73e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/ToolboxHelperTests.cs using Guid(89ee1284ccb34bf6b305e5e49a73e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6501a2fb3c6b0c7111e258f8c872f049') in 0.003798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.066787 seconds.
+  path: Packages/com.unity.terrain-tools/Tests/Editor/BrushSizeTest.cs
+  artifactKey: Guid(0a3b732fe8a93104a9e5cbc4790da45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Tests/Editor/BrushSizeTest.cs using Guid(0a3b732fe8a93104a9e5cbc4790da45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee01aca3afcdcfe3c6b2d9db81d5b749') in 0.003879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.472910 seconds.
+  path: Packages/com.unity.terrain-tools/Runtime/Unity.TerrainTools.asmdef
+  artifactKey: Guid(870ce330d12521c41ba8a44d9ad3a5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Runtime/Unity.TerrainTools.asmdef using Guid(870ce330d12521c41ba8a44d9ad3a5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b12d4428f44bdda0b749e4b834fd04') in 0.003858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.779919 seconds.
+  path: Packages/com.unity.terrain-tools/Runtime
+  artifactKey: Guid(16a5a234be536f34182399ccaccf45a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Runtime using Guid(16a5a234be536f34182399ccaccf45a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63307d448ee5a4b2415e821792e42220') in 0.003409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.515098 seconds.
+  path: Packages/com.unity.terrain-tools/Runtime/TerrainToolbox
+  artifactKey: Guid(dfd023f3255a0dd4e8c8cdc7922d0f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Runtime/TerrainToolbox using Guid(dfd023f3255a0dd4e8c8cdc7922d0f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e88d2195ef47863baccda357defa23') in 0.003190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.927510 seconds.
+  path: Packages/com.unity.terrain-tools/Editor
+  artifactKey: Guid(8c1b918288daea540bcb8ed21709d0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Editor using Guid(8c1b918288daea540bcb8ed21709d0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63dd94c22b085158c2c9d67d7e2aecfa') in 0.003155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082338 seconds.
+  path: Packages/com.unity.terrain-tools/Editor/Unity.TerrainTools.Editor.asmdef
+  artifactKey: Guid(99491abea1d2e7b47b99bc47c7d66616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Editor/Unity.TerrainTools.Editor.asmdef using Guid(99491abea1d2e7b47b99bc47c7d66616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19887d92ebb25dddc6148c90b68dd2bf') in 0.003943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.405263 seconds.
+  path: Packages/com.unity.terrain-tools/Editor/Importers
+  artifactKey: Guid(b17554ef22075ca46a4cd03315646456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Editor/Importers using Guid(b17554ef22075ca46a4cd03315646456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279aed2625515878fa6cdb436940379c') in 0.003234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.641425 seconds.
+  path: Packages/com.unity.terrain-tools/Editor/Importers/TerrainToolsShaderImporter.cs
+  artifactKey: Guid(b9c065fae394f294e9541c251bdd5c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.terrain-tools/Editor/Importers/TerrainToolsShaderImporter.cs using Guid(b9c065fae394f294e9541c251bdd5c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732d6d9974471ccbb657dea5ef2fae75') in 0.002384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.914239 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab
+  artifactKey: Guid(e5f4daf24146ee040b5a2d7a73b30aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab using Guid(e5f4daf24146ee040b5a2d7a73b30aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c293740b9751a1b82ce4b3e517884795') in 0.181299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab
+  artifactKey: Guid(64dce48905ffd9b4293e595fa6941544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab using Guid(64dce48905ffd9b4293e595fa6941544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8682257fcd7002f06ce54a22a93a98b') in 0.148414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab
+  artifactKey: Guid(09aade0ecefd01e4b8f7661acf64f5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab using Guid(09aade0ecefd01e4b8f7661acf64f5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbde1ef59932f270b76c084c5d6b7329') in 0.106758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab
+  artifactKey: Guid(f6d148d888ffbf54b9afe9936dfaec1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Prefabs/MainCamera.prefab using Guid(f6d148d888ffbf54b9afe9936dfaec1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1039737c56c1bedd55c967077b014f3') in 0.010745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentArmature_Unpack.prefab
+  artifactKey: Guid(c708a3b79cd542b42bbfedb17e213bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Prefabs/NestedParentArmature_Unpack.prefab using Guid(c708a3b79cd542b42bbfedb17e213bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0402762ca5f49af57520c4bf633f1f6a') in 0.204317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab
+  artifactKey: Guid(e5d7b87d422ee0f478ee09eb32e24f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab using Guid(e5d7b87d422ee0f478ee09eb32e24f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9787afa29da80d774af2747160752387') in 0.035323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab
+  artifactKey: Guid(f0271df749728104eac22c3d897fd8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab using Guid(f0271df749728104eac22c3d897fd8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647d182ed63db0de1502f07a5f31aaaf') in 0.008016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerCapsule.prefab
+  artifactKey: Guid(2553cec8fdb3eb643bbe9f2ec880c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerCapsule.prefab using Guid(2553cec8fdb3eb643bbe9f2ec880c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f8402d9015baca8a15c15b0b4b3ec8') in 0.014036 seconds 
